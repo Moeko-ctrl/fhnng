@@ -1,1 +1,1 @@
-Test to link woth RStudio
+Test to link wth RStudio
